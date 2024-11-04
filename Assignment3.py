@@ -12,9 +12,9 @@ print(student_names)
 slicing, printing, deleting
 1. Print Patricia to Anita
 2. Add Masha at the 4th position
-3. Update the name Fiona to Fiona Aladina
+3. Update the name Fiona to Phiona Aladina
 4. Diplay the length of the students list
-5. Print all the student names using a for loop
+5. Print all the student names using a loop
 6. Sum of students marks
 '''
 
@@ -32,7 +32,7 @@ student_names[2] = 'Phiona Aladina'
 print(student_names)
 
 
-#4. Diplay the length of the students list
+#4. Display the length of the students list
 print(f'The length of the students list is:', len(student_names))
 
 
